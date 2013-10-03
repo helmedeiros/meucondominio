@@ -1,0 +1,30 @@
+Return-Path: <anonymous@hm449.locaweb.com.br>
+Received: from [unix socket] by morondava.hst.terra.com.br (LMTP); Sun, 26 Nov 2006
+	16:12:36 -0200 (BRST)
+X-Terra-Karma: -2%
+X-Terra-Hash: b91f1ce21f73240cd825e47c2694fe47
+Received-SPF: none (morondava.hst.terra.com.br: 200.234.200.77 is neither permitted nor
+	denied by domain of hm449.locaweb.com.br) client-ip=200.234.200.77;
+	envelope-from=anonymous@hm449.locaweb.com.br; helo=hm449.locaweb.com.br;
+Received: from hm449.locaweb.com.br (hm449.locaweb.com.br [200.234.200.77])
+	by morondava.hst.terra.com.br (Postfix) with SMTP id 85590329403C
+	for <fausto_luiz@terra.com.br>; Sun, 26 Nov 2006 16:12:36 -0200 (BRST)
+Received: (qmail 1222 invoked by uid 48); 26 Nov 2006 18:12:36 -0000
+Date: 26 Nov 2006 18:12:35 -0000
+Message-ID: <20061126181235.1212.qmail@hm449.locaweb.com.br>
+To: fausto_luiz@terra.com.br
+Subject: CrÃ­ticas & SugestÃµes - MeuCondominio.net
+X-PHP-Script: www.meucondominio.net/site/sistema/criticas_sugestoes/adicionar.php for
+	201.30.39.99
+From: no-reply@meucondominio.net
+Reply-To: webmaster@example.com
+X-Terra-AV: McAfee VirusScan/4.4.00/4904
+MIME-Version: 1.0
+Status: RO
+
+ A sua Critica foi visualizada pelo destinatÃ¡rio na seguinte data: 2006-11-26. Para a descriÃ§Ã£o completa, verifique o mÃ³dulo correspondente atravÃ©s do site
+
+Esta mensagem foi verificada pelo E-mail Protegido Terra.
+Scan engine: McAfee VirusScan / Atualizado em 24/11/2006 / Vers�o: 4.4.00/4904
+Proteja o seu e-mail Terra: http://mail.terra.com.br/
+

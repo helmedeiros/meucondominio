@@ -1,0 +1,321 @@
+
+</script>
+
+
+<body bgcolor="white" onload="initPage()">
+<table width="400" cellpadding="3" cellspacing="5">
+  <tr>
+    <td id="tableProps" valign="top" align="left"><img id="pagerrorImg" SRC="pagerror.gif"
+    width="25" height="33"></td>
+    <td id="tableProps2" align="left" valign="middle" width="360"><h1 id="errortype"
+    style="COLOR: black; FONT: 13pt/15pt verdana"><span id="errorText"> Die Seite ist nicht vorhanden.</span></h1>
+    </td>
+  </tr>
+  <tr>
+    <td id="tablePropsWidth" width="400" colspan="2"><font
+    style="COLOR: black; FONT: 8pt/11pt verdana">Die gewünschte Seite wurde entfernt.</font></td>
+  </tr>
+  <tr>
+    <td id="LID1" width="400" colspan="2"><font id="LID2"
+    style="COLOR: black; FONT: 8pt/11pt verdana"><hr color="#C0C0C0" noshade>
+    <p id="LID3">Sie finden möglicherweise die gewünschten Informationen, wenn Sie die <span id="homepageContainer"></span>&nbsp;-Homepage öffnen und
+    eine Verbindung zu einer ähnlichen Seite herstellen. </p>
+    <p id="LID4">Klicken Sie auf <a  href="javascript:doSearch()"><img border=0 src="search.gif" width="16" height="16" alt="search.gif (114 bytes)" align="center"> Suchen</a>, um nach Informationen im Internet zu suchen.</p>
+    <p><br>
+    </p>
+    <h2 id="ietext" style="font:8pt/11pt verdana; color:black">HTTP-Fehler 410 - Dauerhaft
+    nicht verfügbar<br>
+    Internet Explorer </h2>
+    </font></td>
+  </tr>
+</table>
+</body>
+</html>
+PAD<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+
+<head>
+<style>
+a:link			{font:8pt/11pt verdana; color:red}
+a:visited		{font:8pt/11pt verdana; color:#4e4e4e}
+</style>
+<meta HTTP-EQUIV="Content-Type" Content="text-html; charset=Windows-1252">
+<title>HTTP 500 Interner Serverfehler</title>
+</head>
+<script> 
+
+function Related(){
+	userURL=document.location.href;
+
+	//for the href, we need a valid URL to the domain. We search for the # symbol to find the begining 
+	//of the true URL, and add 1 to skip it - this is the BeginURL value. We use serverIndex as the end marker.
+
+	BeginURL=userURL.indexOf("#",1) + 1;
+	CurrentURL=userURL.substring(BeginURL,DocURL.length);
+	
+	//Build the query
+	RelatedServiceURL="http://related.msn.com/related.asp?url=";
+	
+	//Perform simple check for Intranet URLs 
+	//this is where the http or https will be, as found by searching for :// but skip res:
+	protocolIndex=userURL.indexOf("://",4);
+	serverIndex=userURL.indexOf("/",protocolIndex + 3);
+	urlresult=userURL.substring(0,serverIndex);
+	if (protocolIndex - BeginURL > 7)
+		urlresult=""
+	
+	//Check if Intranet URL - then open search bar
+	
+	if (urlresult.indexOf(".",0) < 1) userURL="Intranet URL";
+	finalURL = RelatedServiceURL + encodeURIComponent(userURL);
+	window.open(finalURL, "_search");
+	
+}
+
+function Homepage(){
+
+// in real bits, urls get returned to our script like this:
+// res://shdocvw.dll/http_404.htm#http://www.DocURL.com/bar.htm 
+
+    //For testing use 
+    //DocURL = "res://shdocvw.dll/http_404.htm#https://www.microsoft.com/bar.htm"
+    DocURL=document.location.href;
+	
+    //this is where the http or https will be, as found by searching for :// but skipping the res://
+    protocolIndex=DocURL.indexOf("://", 4);
+
+    //this finds the ending slash for the domain server 
+    serverIndex=DocURL.indexOf("/", protocolIndex + 3);
+
+    //for the href, we need a valid URL to the domain. We search for the # symbol to find the begining 
+    //of the true URL, and add 1 to skip it - this is the BeginURL value. We use serverIndex as the end marker.
+    //urlresult=DocURL.substring(protocolIndex - 4,serverIndex);
+    BeginURL=DocURL.indexOf("#",1) + 1;
+    urlresult=DocURL.substring(BeginURL, serverIndex);
+    if (protocolIndex - BeginURL > 7)
+        urlresult=""
+
+    //for display, we need to skip after http://, and go to the next slash
+    displayresult=DocURL.substring(protocolIndex + 3, serverIndex);
+
+    var aElement = document.createElement("A");
+    aElement.innerText = displayresult;
+    aElement.href = urlresult;
+
+    homepageContainer.appendChild(aElement);
+}
+
+function doSearch()
+{
+    saOC.NavigateToDefaultSearch();
+}
+
+function initPage() 
+{
+    document.body.insertAdjacentHTML("afterBegin","<object id=saOC CLASSID='clsid:B45FF030-4447-11D2-85DE-00C04FA35C89' HEIGHT=0 width=0></object>");
+    Homepage();
+}
+
+</script>
+
+
+<body bgcolor="white" onload="initPage()">
+
+<table width="400" cellpadding="3" cellspacing="5">
+  <tr>
+    <td id="tableProps" valign="top" align="left"><img id="pagerrorImg" SRC="pagerror.gif"
+    width="25" height="33"></td>
+    <td id="tableProps2" align="left" valign="middle" width="360"><h1 id="errortype"
+    style="COLOR: black; FONT: 13pt/15pt verdana"><span id="errorText">Die Seite kann nicht angezeigt werden.</span></h1>
+    </td>
+  </tr>
+  <tr>
+    <td id="tablePropsWidth" width="400" colspan="2"><font
+    style="COLOR: black; FONT: 8pt/11pt verdana">Die gewünschte Seite
+    kann nicht angezeigt werden.</font></td>
+  </tr>
+  <tr>
+    <td id="tablePropsWidth" width="400" colspan="2"><font id="LID1"
+    style="COLOR: black; FONT: 8pt/11pt verdana"><hr color="#C0C0C0" noshade>
+    <p id="LID2">Versuchen Sie Folgendes:</p><ul>
+      <li id="instructionsText1">Öffnen Sie die <span id="homepageContainer"></span>&nbsp;-Homepage, und suchen Sie dann nach Links
+        zu den gewünschten Informationen. </li>
+      <li id="instructionsText2">Klicken Sie auf 
+      <a xhref="javascript:location.reload()" target="_self">
+      <img border=0 src="refresh.gif" width="13" height="16"
+        alt="refresh.gif (82 bytes)" align="middle"></a> <a xhref="javascript:location.reload()" target="_self">Aktualisieren</a> oder wiederholen Sie den Vorgang später.<br>
+      </li>
+      <li ID="instructionsText3">Klicken Sie auf <a href="javascript:doSearch()"><img border=0 src="search.gif" width="16" height="16" alt="search.gif (114 bytes)" align="center"> Suchen</a>, um nach Informationen im Internet zu suchen. </li>
+      <li id="instructionsText4">Sie können auch <a onclick="Related();event.returnValue=false" href="">eine Liste verwandter Sites anzeigen.</a>     
+</ul>
+</p>
+	
+    <p><br>
+    </p>
+    <h2 id="ietext" style="font:8pt/11pt verdana; color:black">HTTP 500 - Interner
+    Serverfehler <br>
+    Internet Explorer </h2>
+    </font></td>
+  </tr>
+</table>
+</body>
+</html>
+PAD<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+
+<head>
+<style>
+a:link			{font:8pt/11pt verdana; color:red}
+a:visited		{font:8pt/11pt verdana; color:#4e4e4e}
+</style>
+<meta HTTP-EQUIV="Content-Type" Content="text-html; charset=Windows-1252">
+<title>HTTP 501 Nicht implementiert</title>
+</head>
+<script> 
+
+
+function Related(){
+	userURL=document.location.href;
+
+	//for the href, we need a valid URL to the domain. We search for the # symbol to find the begining 
+	//of the true URL, and add 1 to skip it - this is the BeginURL value. We use serverIndex as the end marker.
+
+	BeginURL=userURL.indexOf("#",1) + 1;
+	CurrentURL=userURL.substring(BeginURL,DocURL.length);
+	
+	//Build the query
+	RelatedServiceURL="http://related.msn.com/related.asp?url=";
+	
+	//Perform simple check for Intranet URLs 
+	//this is where the http or https will be, as found by searching for :// but skip res:
+	protocolIndex=userURL.indexOf("://",4);
+	serverIndex=userURL.indexOf("/",protocolIndex + 3);
+	urlresult=userURL.substring(0,serverIndex);
+	if (protocolIndex - BeginURL > 7)
+		urlresult=""
+	
+	//Check if Intranet URL - then open search bar
+	
+	if (urlresult.indexOf(".",0) < 1) userURL="Intranet URL";
+	finalURL = RelatedServiceURL + encodeURIComponent(userURL);
+	window.open(finalURL, "_search");
+	
+}
+
+function Homepage(){
+
+// in real bits, urls get returned to our script like this:
+// res://shdocvw.dll/http_404.htm#http://www.DocURL.com/bar.htm 
+
+    //For testing use 
+    //DocURL = "res://shdocvw.dll/http_404.htm#https://www.microsoft.com/bar.htm"
+    DocURL=document.location.href;
+	
+    //this is where the http or https will be, as found by searching for :// but skipping the res://
+    protocolIndex=DocURL.indexOf("://", 4);
+
+    //this finds the ending slash for the domain server 
+    serverIndex=DocURL.indexOf("/", protocolIndex + 3);
+
+    //for the href, we need a valid URL to the domain. We search for the # symbol to find the begining 
+    //of the true URL, and add 1 to skip it - this is the BeginURL value. We use serverIndex as the end marker.
+    //urlresult=DocURL.substring(protocolIndex - 4,serverIndex);
+    BeginURL=DocURL.indexOf("#",1) + 1;
+    urlresult=DocURL.substring(BeginURL, serverIndex);
+    if (protocolIndex - BeginURL > 7)
+        urlresult=""
+
+    //for display, we need to skip after http://, and go to the next slash
+    displayresult=DocURL.substring(protocolIndex + 3, serverIndex);
+
+    var aElement = document.createElement("A");
+    aElement.innerText = displayresult;
+    aElement.href = urlresult;
+
+    homepageContainer.appendChild(aElement);
+}
+
+function doSearch()
+{
+    saOC.NavigateToDefaultSearch();
+}
+
+function initPage() 
+{
+    document.body.insertAdjacentHTML("afterBegin","<object id=saOC CLASSID='clsid:B45FF030-4447-11D2-85DE-00C04FA35C89' HEIGHT=0 width=0></object>");
+    Homepage();
+}
+
+</script>
+
+
+<body bgcolor="white" onload="initPage()">
+<table width="400" cellpadding="3" cellspacing="5">
+  <tr>
+    <td id="tableProps" valign="top" align="left"><img id="pagerrorImg" SRC="pagerror.gif"
+    width="25" height="33"></td>
+    <td id="tablePropsWidth" align="left" valign="middle" width="360"><h1 id="errortype"
+    style="COLOR: black; FONT: 13pt/15pt verdana"><span id="errorText">Die Seite kann nicht angezeigt werden.</span></h1>
+    </td>
+  </tr>
+  <tr>
+    <td id="tablePropsWidth" width="400" colspan="2"><font
+    style="COLOR: black; FONT: 8pt/11pt verdana">Die gewünschte Seite kann nicht übermittelt werden.</font> </td>
+  </tr>
+  <tr>
+    <td id="tablePropsWidth" width="400" colspan="2"><font id="LID1"
+    style="COLOR: black; FONT: 8pt/11pt verdana"><hr color="#C0C0C0" noshade>
+    <p id="LID2">Versuchen Sie Folgendes:</p><ul>
+      <li id="instructionsText1">Öffnen Sie die <span id="homepageContainer"></span>&nbsp;-Homepage, und suchen Sie dann nach Links
+        zu den gewünschten Informationen. </li>
+      <li id="instructionsText2">Klicken Sie auf 
+      <a xhref="javascript:location.reload()" target="_self">
+      <img border=0 src="refresh.gif" width="13" height="16"
+        alt="refresh.gif (82 bytes)" align="middle"></a> <a xhref="javascript:location.reload()" target="_self">Aktualisieren</a> oder wiederholen Sie den Vorgang später.<br>
+      </li>
+      <li ID="instructionsText3">Klicken Sie auf <a  href="javascript:doSearch()"><img border=0 src="search.gif" width="16" height="16" alt="search.gif (114 bytes)" align="center"> Suchen</a>, um nach Informationen im Internet zu suchen. </li>
+      <li id="instructionsText4">Sie können auch <a onclick="Related();event.returnValue=false" href="">eine Liste verwandter Sites anzeigen.</a>     
+</ul>
+   
+	
+	 
+    <p><br>
+    </p>
+    <h2 id="ietext" style="font:8pt/11pt verdana; color:black">Fehler 501/505 - Nicht implementiert oder nicht unterstützt <br>
+    Internet Explorer </h2>
+    </font></td>
+  </tr>
+</table>
+</body>
+</html>
+P<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+
+<head>
+<style>
+a:link			{font:8pt/11pt verdana; color:red}
+a:visited		{font:8pt/11pt verdana; color:#4e4e4e}
+</style>
+<meta HTTP-EQUIV="Content-Type" Content="text-html; charset=Windows-1252">
+<title>HTTP 405 - Ressource nicht zugelassen</title>
+</head>
+<script> 
+
+function Homepage(){
+
+// in real bits, urls get returned to our script like this:
+// res://shdocvw.dll/http_404.htm#http://www.DocURL.com/bar.htm 
+
+    //For testing use 
+    //DocURL = "res://shdocvw.dll/http_404.htm#https://www.microsoft.com/bar.htm"
+    DocURL=document.location.href;
+	
+    //this is where the http or https will be, as found by searching for :// but skipping the res://
+    protocolIndex=DocURL.indexOf("://", 4);
+
+    //this finds the ending slash for Áª                        Àáê DùfJiÿ…k&ü_j¬Qş×k”ÿ­Æå¯±Fù?j¯‰’x‰×FI¼Äkc'^âP/ñÚ(‰—xm”ÄK¼6Jâ%^%ñ¯x‰wBI¼Äk£$^âµQ/ñÚ(‰—xm”ÄK¼6vâ%Ş	%ñ¯’x‰×FI¼Äk£$^âµQ/ñÚØ‰—x'”ÄK¼6Jâ%^%ñ¯’x‰×FI¼Äkc'^âP/ñÚ(‰—xm”ÄK¼6Jâ%^%ñ¯x‰wBùÚx¿Å¿,ˆòs”      ğbû='¿Ùnq»x$îå¢6¿y,l‰Ju¿i¥,ÜÂÊYÊ§¬LWvw¨ÃÙêS{Ïş‰Àenÿ•ù³¥i[ã|…£*•[a“J—o“Jıôc•éÊº°/'vÚæ;“Ÿ»ÊÒ û•İÙ Âöïå%cÿº/ˆÛ/•qËñß¾‡ğ®0tseâ1QÌ_ÎÒ}€²°².Xû|á5Ù8Î§›)G“J%ö‹QÉ9Ïï6î\Œ;®ªX×ôY¹e;A¯²’Z0óYÖ”…˜¦•ş©osı¾¸«dç+œ*ÃÃY¥—”å)'/Ë DşÄH¥zÀş
+QQ-ÅBåšY¤òÀª½&Ê<Şñ)ªQ†‡õé¦Sì<uå±/5ˆ.şv6guùV'ŒßVœ§”•gsR¶»p–¹5Œµ2û«U¹ÛNŸ28ı³é&{î=gÊøz¡<»c”û¿
+ã—¢ä'—óÌäp*ñfS0V·»l–º–|–á@Z.¬6&!uùäŞãö­æÎ”â-SJıÕ´b û¥ÙùOÎa …Ñâ '¥Ã}…ıæ÷Vøß^h¥ßv£Ò~–[fTÊğÉÂR™Æ+§¸õùÔŞÕ8Nİ…)º“v)å•·z=j%®Få¶ \¡¼ôÙÓ«,¾~jÌùu¥õI”o¥\3Seé§¦áp                         àıpuP¢|3¥´ÿÏk&ü¿j¬Qşïk”ÿ§Æåÿ­±Fùÿj¯‰’x‰×FI¼Äkc'^âP/ñÚ(‰—xm”ÄK¼6Jâ%^%ñ¯x‰wBI¼Äk£$^âµQ/ñÚ(‰—xm”ÄK¼6vâ%Ş	%ñ¯’x‰×FI¼Äk£$^âµQ/ñÚØ‰—x'”ÄK¼6Jâ%^%ñ¯’x‰×FI¼Äkc'^âP/ñÚ(‰—xm”ÄK¼6Jâ%^%ñ¯x‰wBùÚx¿Å¿,ˆòs”      ğJö›=ùÕoß‹¶dƒ~,ŞåÄã×ú\¦T†ÊÃ"”ê~ú¥ZÙ5òdc3–¯ìù³‡}Œòkyx®mÎj¥aÜê;–CÉäâØ+çÒYŞ¬Ô¯Yq ³ÄÒ#Úu\Õ+;âMß¯8öóiógUØR¸Š“÷ÕÌ›Yïá™S%StZé/Cw*ı¬W)ÓS2Ydí¬èõ<äûÅ³UÒ–¶tWqNŒM?vòµnÓßëaä¦e¾pıW§Å+¦èrexË¢YfÊü|1Uúwh†;ÒGë¤š2™3Û®vulãÚ?áøÏ9å_òS6Eã
+_zT“e¿E¹~–¢ı’UÊb¼#•–N¾²|…¿vÊMê/vù[Oæ\ö)å
+_69u/±BYlwñ,e­N»F©W±0ãr¼¹ş‡ßKG«1ŞR»¥Ë½”ºìq2g'‡ ‡—ûüë×ø
+Å/ãe¡İÕ³T-Şµ°YT¥v¯õû.]¶ı×u¼âgE¸|ï_’¯jEä‡ªÂ+Õ–}.÷]íeÖ-brÛíÊÅ³Œ_ïSâUz¿íR¿m…yÄ¯õv›ˆgÍ=ÜíCùBıòñäŸp>Ë‡òEú                     Fùÿ@öeqÔ    IEND®B`‚

@@ -1,0 +1,4 @@
+[09-Oct-2006 17:02:27] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/tipo_servico/buscar.php on line 298
+[10-Oct-2006 19:23:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/tiposservicosDAO.php on line 91
+[10-Oct-2006 20:45:26] PHP Warning:  main(../php/superusuario.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/tipo_servico/home.php on line 3
+[10-Oct-2006 20:45:26] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '../php/superusuario.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /BACKUP/heliomed/public_html/meucondominio/sistema/tipo_servico/home.php on line 3

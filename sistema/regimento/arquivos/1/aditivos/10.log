@@ -1,0 +1,51 @@
+Start Log: 11/3/2006 - 9:38:13 AM
+    System Info:
+        OS Type: NT5
+        Major Version: 5
+        Minor Version: 2
+        Build Number: 3790
+        Extra String: Service Pack 1
+        Total Physical Memory: 1047940KB
+        Total Available Physical Memory: 779344KB
+
+    Product Info:
+        Install mode: Normal
+        Company name: Mozilla
+        Product name (external): Mozilla Firefox
+        Product name (internal): Mozilla Firefox
+        UserAgent: 1.5 (en-US)
+        Alternate search path: 
+
+    Components corrupted (startup):
+        none
+ƒ
+    Destination Path:
+        Main: C:\Program Files (x86)\Mozilla Firefox
+        SubPath: 
+
+    Setup Type: &Custom
+
+    Components selected:
+        Cross-Platform COM
+        Firefox Browser
+        en-US Language Pack
+
+    Components to download:
+        Cross-Platform COM found: C:\DOCUME~1\ADMINI~1.OBI\LOCALS~1\Temp\7zS58.tmp\
+        Firefox Browser found: C:\DOCUME~1\ADMINI~1.OBI\LOCALS~1\Temp\7zS58.tmp\
+        en-US Language Pack found: C:\DOCUME~1\ADMINI~1.OBI\LOCALS~1\Temp\7zS58.tmp\
+        **
+        ** All components have been found locally.  No components will be downloaded.
+        **
+
+
+    Uncompressing Xpcom Succeeded: 0
+
+    XPInstall Start
+        Cross-Platform COM: 0 OK
+        Firefox Browser: 0 OK
+        en-US Language Pack: 0 OK
+    XPInstall End
+
+    Launch Apps Start
+    Launch Apps End

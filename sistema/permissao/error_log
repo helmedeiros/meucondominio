@@ -1,0 +1,178 @@
+[14-Oct-2006 13:37:52] PHP Parse error:  syntax error, unexpected '{' in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/home.php on line 169
+[14-Oct-2006 13:37:54] PHP Parse error:  syntax error, unexpected '{' in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/home.php on line 169
+[16-Oct-2006 16:15:45] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php on line 158
+[16-Oct-2006 16:15:52] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php on line 158
+[16-Oct-2006 16:16:07] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php on line 158
+[16-Oct-2006 16:41:44] PHP Parse error:  syntax error, unexpected '[' in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php on line 186
+[16-Oct-2006 16:43:47] PHP Parse error:  syntax error, unexpected '[' in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php on line 186
+[16-Oct-2006 16:44:16] PHP Parse error:  syntax error, unexpected '[' in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php on line 186
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[16-Oct-2006 16:45:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 76
+[20-Oct-2006 18:08:34] PHP Fatal error:  Call to undefined function:  cleanpermissao() in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php on line 46
+[20-Oct-2006 18:09:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 88
+[20-Oct-2006 18:10:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 88
+[20-Oct-2006 18:10:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 88
+[20-Oct-2006 18:14:17] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php on line 50
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:34:40] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:42:23] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php on line 51
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 18:44:25] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/adicionar.php(51) : eval()'d code on line 1
+[20-Oct-2006 20:45:16] PHP Fatal error:  Cannot instantiate non-existent class:  tipospermissoes in /BACKUP/heliomed/public_html/meucondominio/sistema/permissao/buscar.php on line 84
+[20-Oct-2006 23:17:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 101
+[20-Oct-2006 23:17:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 46
+[20-Oct-2006 23:20:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 101
+[20-Oct-2006 23:20:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 46
+[20-Oct-2006 23:20:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 101
+[20-Oct-2006 23:20:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 46
+[21-Oct-2006 09:22:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 46
+[21-Oct-2006 09:24:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 46
+[21-Oct-2006 09:24:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 50
+[21-Oct-2006 09:27:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/tiposusuariosDAO.php on line 61
+[21-Oct-2006 09:27:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 75
+[21-Oct-2006 09:32:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/tiposusuariosDAO.php on line 61
+[21-Oct-2006 09:32:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 75

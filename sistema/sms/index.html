@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Sample HTML form for sending SMS</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body> 
+<form action="send.php" method="post" name="form1" target="_blank">
+   From:
+  <input name="from" type="text" id="from"> 
+  (Your nick name or full international mobile number) <br> 
+  To:
+  <input name="to" type="text" id="to"> 
+  (Full international mobile number of recipient)<br> 
+  Message: <br> 
+  <textarea name="message" id="message"></textarea> 
+  <br> 
+  <br> 
+  <input type="submit" value="Send SMS now"> 
+</form> 
+<form action="send.php?balance=1" method="post" name="form2" target="_blank">
+  <input type="submit" name="Submit" value="Check SMS balance">
+</form>
+<br>
+NOTE: Before using this demo, You need to have active <a href="http://www.clickatell.com" target="_blank">Clickatell</a> account and need to change folowing parameters in <strong>sms_api.php</strong> with Your account details:<br>
+<br>
+YOUR_CLICKATELL_API_NUMBER<br>
+YOUR_CLICKATELL_USERNAME<br>
+YOUR_CLICKATELL_PASSWORD</body>
+</html>

@@ -1,0 +1,1 @@
+[27-Oct-2006 18:31:31] PHP Fatal error:  Call to undefined function:  findbycpf() in /BACKUP/heliomed/public_html/meucondominio/sistema/membro_condominio/adicionar.php on line 48

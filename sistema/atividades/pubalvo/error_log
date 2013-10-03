@@ -1,0 +1,35 @@
+[27-Oct-2006 23:56:53] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ',' or ')' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/participante/home.php on line 42
+[27-Oct-2006 23:57:19] PHP Fatal error:  Undefined class name 'participantedao' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/participante/home.php on line 43
+[27-Oct-2006 23:58:24] PHP Warning:  main(../php/conexao.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/participante/home.php on line 2
+[27-Oct-2006 23:58:24] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '../php/conexao.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/participante/home.php on line 2
+[27-Oct-2006 23:59:18] PHP Fatal error:  Call to undefined function:  findtopbyata() in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/participante/home.php on line 48
+[28-Oct-2006 00:00:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/participanteDAO.php on line 52
+[28-Oct-2006 00:18:12] PHP Fatal error:  Undefined class name 'membrocondominiosdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/participante/home.php on line 162
+[28-Oct-2006 00:18:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 108
+[28-Oct-2006 19:24:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 147
+[28-Oct-2006 19:24:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 134
+[28-Oct-2006 19:25:45] PHP Parse error:  syntax error, unexpected '}' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/participante/home.php on line 175
+[28-Oct-2006 19:27:38] PHP Parse error:  syntax error, unexpected '}' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/participante/home.php on line 240
+[28-Oct-2006 19:35:03] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/participante/home.php on line 32
+[31-Oct-2006 20:19:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 147
+[31-Oct-2006 20:19:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 134
+[02-Nov-2006 10:38:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/atasreuniaoDAO.php on line 91
+[07-Nov-2006 15:54:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/publico_alvoDAO.php on line 54
+[07-Nov-2006 16:06:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/publico_alvoDAO.php on line 54
+[07-Nov-2006 16:12:48] PHP Parse error:  syntax error, unexpected '=' in /BACKUP/heliomed/public_html/meucondominio/sistema/php/publico_alvo.php on line 12
+[10-Nov-2006 10:48:07] PHP Fatal error:  Call to undefined function:  findtopbyatv() in /BACKUP/heliomed/public_html/meucondominio/sistema/atividades/pubalvo/home.php on line 49
+[10-Nov-2006 10:52:06] PHP Fatal error:  Call to undefined function:  findtopbyatv() in /BACKUP/heliomed/public_html/meucondominio/sistema/atividades/pubalvo/home.php on line 49
+[10-Nov-2006 11:32:36] PHP Fatal error:  Call to undefined function:  findtopbyatv() in /BACKUP/heliomed/public_html/meucondominio/sistema/atividades/pubalvo/home.php on line 49
+[10-Nov-2006 11:41:38] PHP Fatal error:  Call to undefined function:  findtopbyatv() in /BACKUP/heliomed/public_html/meucondominio/sistema/atividades/pubalvo/home.php on line 49
+[10-Nov-2006 11:43:04] PHP Fatal error:  Call to undefined function:  findtopusr() in /BACKUP/heliomed/public_html/meucondominio/sistema/atividades/pubalvo/home.php on line 49
+[10-Nov-2006 11:50:17] PHP Parse error:  syntax error, unexpected '}' in /BACKUP/heliomed/public_html/meucondominio/sistema/php/publico_alvoDAO.php on line 108
+[10-Nov-2006 11:50:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/publico_alvoDAO.php on line 87
+[10-Nov-2006 11:52:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/publico_alvoDAO.php on line 87
+[10-Nov-2006 12:34:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 137
+[10-Nov-2006 12:36:13] PHP Warning:  main(../../php/membroscondominioDAO.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/atividades/pubalvo/home.php on line 14
+[10-Nov-2006 12:36:13] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '../../php/membroscondominioDAO.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /BACKUP/heliomed/public_html/meucondominio/sistema/atividades/pubalvo/home.php on line 14
+[10-Nov-2006 13:24:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 137
+[10-Nov-2006 13:24:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 137
+[10-Nov-2006 13:25:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 137
+[10-Nov-2006 13:25:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 137
+[10-Nov-2006 13:25:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/membroscondominioDAO.php on line 137

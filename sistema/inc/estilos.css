@@ -1,0 +1,425 @@
+/* CSS Document */
+
+body {
+	background-image: url(../images/bg.jpg);
+}
+
+h1 {
+	font: bold 20px Verdana, Arial, Helvetica, sans-serif;
+	color: #26385e;
+	margin: 35px 0 0 55px;
+}
+
+p {
+	width: 90%;
+	margin: 10px;
+	font: 10px Verdana, Arial, Helvetica, sans-serif; 
+}
+
+td img {
+	display: block;
+	margin: 0;
+}
+
+form {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #4B616C;
+	text-decoration: none;
+	margin: 0px;
+}
+
+select {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #4B616C;
+	text-decoration: none;
+}
+
+option {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #4B616C;
+	text-decoration: none;
+}
+
+.fontemenu a {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #4B616C;
+	text-decoration: none;
+}
+
+.fontemenu a:hover {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #4B616C;
+	text-decoration: underline;
+}
+
+.fontemenu {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #4B616C;
+}
+
+.boxcondominios {
+	margin: 0 auto;
+	width: 150px;
+	font: 9px Verdana, Arial, Helvetica, sans-serif;
+	color: #974F05;
+	margin-top: 40px;
+}
+
+.logoff {
+	margin: 0 auto;
+	width: 150px;
+	font: bold 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #974F05;
+	margin-top: 5px;
+}
+
+.posiLogoff {
+	margin-left: 7px;	
+}
+
+.fontemenu1 {font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #4B616C;
+}
+
+.login {
+	margin-left: 88px;
+}
+
+TABLE.tabela1{
+	margin-left: 10px;
+	border-bottom : 1px solid #6598cb;
+	border-left : 1px solid #6598cb;
+	border-right : 1px solid #6598cb;
+	border-top : 1px solid #6598cb;
+}
+
+.tabela1_titulo1{
+	color : #FFFFFF;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	background-color: #6598cb;
+	font-weight : bold;
+	height : 22px;
+	padding-left : 10px;
+	padding-right : 3px;
+	padding-top : 3px;
+	padding-bottom : 3px;
+}
+
+.tabela1_titulo2{
+	color: #000000;
+	font-family: tahoma, sans-serif;
+	font-size: 11px;
+	background-color: #8fb6dd;
+	height : 22px;
+	padding-left : 10px;
+}
+
+.tabela1_linha1{
+	font-family: tahoma, sans-serif;
+	font-size: 11px;
+	background-color: #FFFFFF;
+	padding-left : 10px;
+	height : 22px;
+	color: #4F5962;
+	padding-right : 3px;
+	padding-top : 3px;
+	padding-bottom : 3px;	
+}
+.tabela1_linha2{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	padding-left : 10px;
+	height : 22px;
+	color: #4B616C;
+	padding-right : 3px;
+	padding-top : 3px;
+	padding-bottom : 3px;	
+}
+
+.tabela1_linha2 a{	
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #4B616C;
+	text-decoration: underline;	
+}
+
+.tabela1_linha2 a:hover{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #4B616C;
+	text-decoration: none;
+}
+
+
+.tabela1_linha3{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #FFFDEC;
+	padding-left : 10px;
+	height : 22px;
+	color: #4B616C;
+	padding-right : 3px;
+	padding-top : 3px;
+	padding-bottom : 3px;	
+}
+
+.tabela1_linha3 a{	
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #4B616C;
+	text-decoration: underline;	
+}
+
+.tabela1_linha3 a:hover{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #4B616C;
+	text-decoration: none;
+}
+
+.tabela1_linhaWarning{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color:#F6F8F9;
+	padding-left : 10px;
+	height : 22px;
+	color: #FF3300;
+	padding-right : 3px;
+	padding-top : 3px;
+	padding-bottom : 3px;	
+}
+
+.tabela1_linhaWarning a{	
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #FF3300;
+	text-decoration: underline;	
+}
+
+.tabela1_linhaWarning a:hover{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #FF3300;
+	text-decoration: none;
+}
+
+.tabela1_linhaLaranja{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color:#F6F8F9;
+	padding-left : 10px;
+	height : 22px;
+	color: #FF9900;
+	padding-right : 3px;
+	padding-top : 3px;
+	padding-bottom : 3px;	
+}
+
+.tabela1_linhaLaranja a{	
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #FF9900;
+	text-decoration: underline;	
+}
+
+.tabela1_linhaLaranja a:hover{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #FF9900;
+	text-decoration: none;
+}
+
+.tabela1_linhaAzul{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color:#F6F8F9;
+	padding-left : 10px;
+	height : 22px;
+	color: #0033FF;
+	padding-right : 3px;
+	padding-top : 3px;
+	padding-bottom : 3px;	
+}
+
+.tabela1_linhaAzul a{	
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #0033FF;
+	text-decoration: underline;	
+}
+
+.tabela1_linhaAzul a:hover{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #0033FF;
+	text-decoration: none;
+}
+
+.tabela1_linhaYellow{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color:#F6F8F9;
+	padding-left : 10px;
+	height : 22px;
+	color: #EEBE00;
+	padding-right : 3px;
+	padding-top : 3px;
+	padding-bottom : 3px;	
+}
+
+.tabela1_linhaYellow a{	
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #EEBE00;
+	text-decoration: underline;	
+}
+
+.tabela1_linhaYellow a:hover{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #EEBE00;
+	text-decoration: none;
+}
+
+.tabela1_linhaGreen{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color:#F6F8F9;
+	padding-left : 10px;
+	height : 22px;
+	color: #56C802;
+	padding-right : 3px;
+	padding-top : 3px;
+	padding-bottom : 3px;	
+}
+
+.tabela1_linhaGreen a{	
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #56C802;
+	text-decoration: underline;	
+}
+
+.tabela1_linhaGreen a:hover{
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 	
+	background-color: #F6F8F9;
+	color: #56C802;
+	text-decoration: none;
+}
+
+TABLE.TBL_CAMPOS{
+	border-bottom : 1px solid #FFD843;
+	border-left : 1px solid #FFD843;
+	border-right : 1px solid #FFD843;
+	border-top : 1px solid #FFD843;
+}
+
+
+.TBL1_CHAMADA1 {
+	FONT-SIZE: 11px;
+	FONT-FAMILY: tahoma,sans-serif;
+	color : #808E9A;
+	font-weight : bold;
+	background-color: #F6F8F9;
+	height : 22px;
+	padding-left : 10px;
+}
+
+.verdanaMarronBold {
+	color: #974F05;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+.verdanaMarronBold a{
+	color: #974F05;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+}
+
+.verdanaMarronBold a:hover{
+	color: #974F05;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: underline;
+}
+
+.verdanaAzul {
+	margin-left: 10px;
+	color: #4B616C;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+.verdanaAzul a{
+	color: #4B616C;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+}
+
+.verdanaAzul a:hover{
+	color: #4B616C;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: underline;
+}
+
+
+.fontelink a {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #4B616C;
+	text-decoration: underline;
+}
+
+.fontelink a:hover {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #4B616C;
+	text-decoration: none;
+}
+
+.fontelink {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #4B616C;
+}
+
+.fontelinkPreto a {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #000000;
+	text-decoration: underline;
+}
+
+.fontelinkPreto a:hover {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #000000;
+	text-decoration: none;
+}
+
+.fontelinkPreto {
+	font: 9px Verdana, Arial, Helvetica, sans-serif; 
+	color: #000000;
+}
+
+.FORMULARIO{
+	font-family: tahoma, sans-serif;
+	font-size: 11px;
+	background-color: #FFFFFF;
+	color: #374751;
+	border : 1px solid #C7CDD3;
+}
+
+.FORMULARIOWARNINIG{
+	font-family: tahoma, sans-serif;
+	font-size: 11px;
+	background-color: #FFFFFF;
+	color: #B00000;
+	border : 1px solid #C7CDD3;
+}
+
+.warning{
+	font-family: tahoma, sans-serif;
+	font-size: 11px;
+	color: #B00000;
+}

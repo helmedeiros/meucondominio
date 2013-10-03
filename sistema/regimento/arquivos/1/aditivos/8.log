@@ -1,0 +1,82 @@
+-------------------------------------------------------------------------------
+http://fpdownload.macromedia.com/get/flashplayer/xpi/current/flashplayer-win.xpi  --  2006-11-03 12:04:27
+-------------------------------------------------------------------------------
+
+     Adobe Flash Player (version 9.0.16.0)
+     ------------------
+
+     ** Moz registerPLID: rootKey==HKEY_LOCAL_MACHINE
+     ** Moz registerPLID: creating missing key SOFTWARE\MozillaPlugins.
+     ** Moz registerPLID: Registry keys seems to be written successfully
+     ** Moz First Install Installation: registerPLID(HKEY_LOCAL_MACHINE) returned, status 0
+     ** Moz registerPLID: rootKey==HKEY_CURRENT_USER
+     ** Moz registerPLID: creating missing key SOFTWARE\MozillaPlugins.
+     ** Moz registerPLID: Registry keys seems to be written successfully
+     ** First Install Installation: registerPLID(HKEY_CURRENT_USER) returned, status 0
+     ** Moz writePLIDSolution: creating missing key SOFTWARE\Macromedia\FlashPlayer.
+     ** PLID entries are present in the Win32 Registry
+     [1/47]	Installing: C:\Program Files (x86)\Mozilla Firefox\plugins\NPSWF32.dll
+     [2/47]	Installing: C:\Program Files (x86)\Mozilla Firefox\plugins\flashplayer.xpt
+     [3/47]	Installing: C:\Program Files (x86)\Mozilla Firefox\plugins\GetFlash.exe
+     [4/47]	Installing: C:\Program Files (x86)\Mozilla Firefox\plugins\GetFlash.exe.manifest
+     [5/47]	Installing: C:\WINDOWS\system32\Macromed\Flash\NPSWF32.dll
+     [6/47]	Installing: C:\WINDOWS\system32\Macromed\Flash\flashplayer.xpt
+     [7/47]	Replacing: C:\WINDOWS\system32\Macromed\Flash\GetFlash.exe
+     [8/47]	Replacing: C:\WINDOWS\system32\Macromed\Flash\GetFlash.exe.manifest
+     [9/47]	Executing: C:\DOCUME~1\ADMINI~1.OBI\LOCALS~1\Temp\xpinstall.exe
+     [10/47]	Create Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins []
+     [11/47]	Create Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 []
+     [12/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [Path]
+     [13/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [XPTPath]
+     [14/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [ProductName]
+     [15/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [Vendor]
+     [16/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [Description]
+     [17/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [Version]
+     [18/47]	Create Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes []
+     [19/47]	Create Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/x-shockwave-flash []
+     [20/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/x-shockwave-flash [Description]
+     [21/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/x-shockwave-flash [Suffixes]
+     [22/47]	Create Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/futuresplash []
+     [23/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/futuresplash [Description]
+     [24/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/futuresplash [Suffixes]
+     [25/47]	Create Registry Key: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\Suffixes []
+     [26/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\Suffixes [swf]
+     [27/47]	Store Registry Value String: HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\Suffixes [spl]
+     [28/47]	Create Registry Key: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins []
+     [29/47]	Create Registry Key: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 []
+     [30/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [Path]
+     [31/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [XPTPath]
+     [32/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [ProductName]
+     [33/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [Vendor]
+     [34/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [Description]
+     [35/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9 [Version]
+     [36/47]	Create Registry Key: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes []
+     [37/47]	Create Registry Key: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/x-shockwave-flash []
+     [38/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/x-shockwave-flash [Description]
+     [39/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/x-shockwave-flash [Suffixes]
+     [40/47]	Create Registry Key: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/futuresplash []
+     [41/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/futuresplash [Description]
+     [42/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\MimeTypes\application/futuresplash [Suffixes]
+     [43/47]	Create Registry Key: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\Suffixes []
+     [44/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\Suffixes [swf]
+     [45/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins\@macromedia.com/FlashPlayer9\Suffixes [spl]
+     [46/47]	Create Registry Key: HKEY_CURRENT_USER\SOFTWARE\Macromedia\FlashPlayer []
+     [47/47]	Store Registry Value String: HKEY_CURRENT_USER\SOFTWARE\Macromedia\FlashPlayer [FlashPlayerVersion]
+
+     Install completed successfully  --  2006-11-03 12:04:27
+
+-------------------------------------------------------------------------------
+http://java.com/jre-install.xpi  --  2006-11-07 17:45:46
+-------------------------------------------------------------------------------
+
+     Java(TM) 2 Runtime Environment (U.S. English version) Standard Edition v1.5.0_06 for Netscape(TM) 7 Release  (version 1.5.0._06)
+     ------------------------------------------------------------------------------------------------------------
+
+     ** initInstall() returned: 0
+     ** installJava execute:
+     ** installJava ret: 0
+     ** performInstall() returned: 0
+     [1/1]	Executing: C:\DOCUME~1\ADMINI~1.OBI\LOCALS~1\Temp\xpinstall.exe
+
+     Install completed successfully  --  2006-11-07 17:57:27
+

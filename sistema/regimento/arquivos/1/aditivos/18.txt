@@ -1,0 +1,17 @@
+SISBB - Sistema de Informações Banco do Brasil
+19/11/2006 	Auto-Atendimento BB 	10:30:58
+Transferência da poupança para conta-corrente   
+Agência: 1246-7    Conta: 39331-2
+Cliente: FAUSTO LUIZ A CALIFE
+Debitado
+Agência: 	1246-7
+Conta: 	39331-2
+Variação: 	1
+Nome: 	FAUSTO LUIZ A CALIFE
+Favorecido
+Agência: 	2876-2
+Conta: 	12664-0
+Nome: 	ERENILSA MARINHO NUNES
+Valor: 	159,00
+  
+Transferência COM cobrança de CPMF

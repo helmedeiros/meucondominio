@@ -1,0 +1,36 @@
+MEUCONDOMINIO CONTRATOS
+
+
+Clickatell - www.clickatell.com
+USERNAME: RUDIGER
+USER ID:  DFE826
+PASS: 7fkcwpg67w
+
+Locaweb
+login: meucondominio2
+PASS:m3uc0nd0m1n10
+
+
+PAGAMENTO CLICKATELL
+------------------------------
+
+Thank you. Your Clickatell purchase was successful. Your account will be credited shortly.
+
+The Payment ID for this transaction is: 149143
+Date:	11 November 2006
+ 	
+Billing Details:	Fausto Luiz de Alencar
+	rua professor manoel fernandes
+	natal
+	rn
+	
+	59020-610
+	Brazil
+ 	
+Message Credits:	200
+Price:	83.35 ZAR
+Tax: 	0.00 ZAR
+ 	
+Total:	83.35 ZAR
+
+Please print for your Reference.

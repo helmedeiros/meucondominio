@@ -1,0 +1,64 @@
+[03-Oct-2006 20:16:56] PHP Warning:  main(../php/modulo.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 7
+[03-Oct-2006 20:16:56] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '../php/modulo.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 7
+[03-Oct-2006 20:25:58] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[03-Oct-2006 20:28:24] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[03-Oct-2006 20:28:32] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[03-Oct-2006 20:29:50] PHP Warning:  main(../php/permissoesDAO.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 6
+[03-Oct-2006 20:29:50] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '../php/permissoesDAO.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 6
+[03-Oct-2006 20:30:00] PHP Warning:  main(../php/permissoesDAO.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 6
+[03-Oct-2006 20:30:00] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '../php/permissoesDAO.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 6
+[05-Oct-2006 19:27:18] PHP Warning:  main(../php/permissoesDAO.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 6
+[05-Oct-2006 19:27:18] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '../php/permissoesDAO.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 6
+[05-Oct-2006 19:28:32] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[05-Oct-2006 19:28:59] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[05-Oct-2006 19:33:38] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[05-Oct-2006 19:33:39] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[05-Oct-2006 19:33:59] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[05-Oct-2006 19:34:44] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[05-Oct-2006 19:34:47] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[05-Oct-2006 19:45:17] PHP Parse error:  syntax error, unexpected ',' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 26
+[05-Oct-2006 19:45:55] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[05-Oct-2006 19:46:57] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[05-Oct-2006 19:49:27] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 28
+[05-Oct-2006 19:49:33] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 28
+[05-Oct-2006 20:05:43] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 28
+[05-Oct-2006 20:06:11] PHP Fatal error:  Undefined class name 'permissoesdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 28
+[05-Oct-2006 20:07:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 44
+[05-Oct-2006 20:07:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php:44) in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 29
+[05-Oct-2006 21:02:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php:42) in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 31
+[05-Oct-2006 21:22:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php on line 45
+[05-Oct-2006 21:22:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /BACKUP/heliomed/public_html/meucondominio/sistema/php/permissoesDAO.php:45) in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 30
+[05-Oct-2006 21:39:33] PHP Fatal error:  Undefined class name 'modulosdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 38
+[05-Oct-2006 21:40:33] PHP Fatal error:  Undefined class name 'modulosdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 38
+[06-Oct-2006 08:09:47] PHP Fatal error:  Undefined class name 'modulosdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 38
+[08-Oct-2006 10:14:02] PHP Warning:  mb_http_output() [<a href='function.mb-http-output'>function.mb-http-output</a>]: Unknown encoding &quot;ISO&quot; in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 9
+[08-Oct-2006 10:27:38] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/home.php on line 10
+[08-Oct-2006 10:49:01] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/adicionar.php on line 205
+[08-Oct-2006 10:51:03] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/adicionar.php on line 208
+[08-Oct-2006 10:53:53] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/adicionar.php on line 198
+[08-Oct-2006 11:05:52] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/adicionar.php on line 215
+[08-Oct-2006 11:06:58] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/adicionar.php on line 210
+[08-Oct-2006 11:09:29] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/adicionar.php on line 221
+[08-Oct-2006 11:09:43] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/modulos/adicionar.php on line 221
+[08-Oct-2006 11:17:25] PHP Parse error:  syntax error, unexpected T_IF in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/adicionar.php on line 27
+[08-Oct-2006 11:47:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 38
+[08-Oct-2006 11:50:44] PHP Parse error:  syntax error, unexpected T_EXIT, expecting ',' or ';' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/adicionar.php on line 28
+[08-Oct-2006 11:50:57] PHP Parse error:  syntax error, unexpected T_EXIT, expecting ',' or ';' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/adicionar.php on line 28
+[08-Oct-2006 11:51:21] PHP Parse error:  syntax error, unexpected T_EXIT, expecting ',' or ';' in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/adicionar.php on line 28
+[08-Oct-2006 11:52:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 38
+[08-Oct-2006 11:53:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 38
+[08-Oct-2006 11:54:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 38
+[08-Oct-2006 11:54:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 38
+[08-Oct-2006 11:54:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 38
+[08-Oct-2006 12:02:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 38
+[08-Oct-2006 12:03:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 38
+[08-Oct-2006 12:03:10] PHP Fatal error:  Call to undefined function:  id_tipo_usuario() in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/adicionar.php on line 32
+[08-Oct-2006 12:03:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 38
+[08-Oct-2006 16:44:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/modulosDAO.php on line 38
+[09-Oct-2006 17:42:46] PHP Warning:  main(../php/tipo_funcionario.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/adicionar.php on line 7
+[09-Oct-2006 17:42:46] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '../php/tipo_funcionario.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/adicionar.php on line 7
+[10-Oct-2006 14:50:28] PHP Warning:  main(../php/conexao.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/buscar.php on line 2
+[10-Oct-2006 14:50:28] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '../php/conexao.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/buscar.php on line 2
+[10-Oct-2006 14:50:45] PHP Warning:  main(../php/superusuarioDAO.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/adicionar.php on line 4
+[10-Oct-2006 14:50:45] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '../php/superusuarioDAO.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /BACKUP/heliomed/public_html/meucondominio/sistema/modulo/adicionar.php on line 4
+[21-Oct-2006 12:43:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/condominiosDAO.php on line 45

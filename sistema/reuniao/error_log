@@ -1,0 +1,25 @@
+[04-Nov-2006 12:28:30] PHP Parse error:  syntax error, unexpected $end in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/adicionar.php on line 463
+[04-Nov-2006 12:43:20] PHP Parse error:  syntax error, unexpected '<' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/adicionar.php on line 322
+[04-Nov-2006 12:54:52] PHP Parse error:  syntax error, unexpected '{' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/adicionar.php on line 174
+[04-Nov-2006 16:11:33] PHP Parse error:  syntax error, unexpected T_INC, expecting ')' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/adicionarAta.php on line 40
+[04-Nov-2006 16:12:56] PHP Parse error:  syntax error, unexpected T_INC, expecting ')' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/adicionarAta.php on line 40
+[04-Nov-2006 16:37:25] PHP Parse error:  syntax error, unexpected '}' in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/adicionarAta.php on line 42
+[04-Nov-2006 16:47:58] PHP Fatal error:  Call to undefined function:  findbypk() in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/adicionarAta.php on line 53
+[04-Nov-2006 16:48:40] PHP Fatal error:  Call to undefined function:  findbypk() in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/adicionarAta.php on line 53
+[04-Nov-2006 17:11:58] PHP Warning:  move_uploaded_file(/www/meucondominio/sistema/reuniao/atas//60.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 53
+[04-Nov-2006 17:11:58] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php3tddx9' to '/www/meucondominio/sistema/reuniao/atas//60.jpg' in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 53
+[04-Nov-2006 17:11:58] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 57
+[04-Nov-2006 17:14:12] PHP Warning:  move_uploaded_file(/www/meucondominio/sistema/reuniao/atas/1/60.txt) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 53
+[04-Nov-2006 17:14:12] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpjQtuWF' to '/www/meucondominio/sistema/reuniao/atas/1/60.txt' in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 53
+[04-Nov-2006 17:14:12] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 57
+[04-Nov-2006 17:29:22] PHP Parse error:  syntax error, unexpected T_ELSE in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 22
+[04-Nov-2006 17:30:08] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 21
+[04-Nov-2006 17:31:09] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 21
+[04-Nov-2006 17:32:18] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 21
+[04-Nov-2006 17:32:27] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 21
+[04-Nov-2006 17:32:40] PHP Warning:  POST Content-Length of 34496221 bytes exceeds the limit of 20971520 bytes in Unknown on line 0
+[04-Nov-2006 17:32:40] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 21
+[04-Nov-2006 17:33:32] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 21
+[04-Nov-2006 17:34:10] PHP Parse error:  syntax error, unexpected T_STRING in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 21
+[04-Nov-2006 18:13:53] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php on line 24
+[04-Nov-2006 18:13:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /BACKUP/heliomed/public_html/meucondominio/sistema/php/ftp.php:24) in /BACKUP/heliomed/public_html/meucondominio/sistema/reuniao/adicionarAta.php on line 62

@@ -1,0 +1,7 @@
+http://www.heliomedeiros.com/meucondominio/sistema/membro_condominio/adicionar.php?id=160
+
+<form action="adicionarFP.php" method="post" enctype="multipart/form-data">
+
+<a href="atas/<?php=$id_condominio?>/<?php=$id?>"
+							
+							<?php  echo $atasreuniao->nome_arquivo; ?>

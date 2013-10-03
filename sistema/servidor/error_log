@@ -1,0 +1,5 @@
+[27-Oct-2006 08:48:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/servidorDAO.php on line 91
+[27-Oct-2006 08:48:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /BACKUP/heliomed/public_html/meucondominio/sistema/php/servidorDAO.php:91) in /BACKUP/heliomed/public_html/meucondominio/sistema/servidor/adicionar.php on line 113
+[27-Oct-2006 08:48:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/servidorDAO.php on line 91
+[27-Oct-2006 08:48:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /BACKUP/heliomed/public_html/meucondominio/sistema/php/servidorDAO.php:91) in /BACKUP/heliomed/public_html/meucondominio/sistema/servidor/adicionar.php on line 113
+[27-Oct-2006 09:34:06] PHP Parse error:  syntax error, unexpected ';' in /BACKUP/heliomed/public_html/meucondominio/sistema/php/servidorDAO.php on line 252

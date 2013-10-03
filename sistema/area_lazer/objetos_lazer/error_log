@@ -1,0 +1,19 @@
+[04-Nov-2006 13:31:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php on line 159
+[04-Nov-2006 13:31:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php on line 81
+[04-Nov-2006 13:31:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php on line 159
+[04-Nov-2006 13:31:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php on line 81
+[04-Nov-2006 13:33:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php on line 159
+[04-Nov-2006 13:33:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php on line 81
+[04-Nov-2006 15:36:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php on line 159
+[04-Nov-2006 15:36:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php on line 81
+[04-Nov-2006 15:48:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php on line 160
+[04-Nov-2006 16:17:04] PHP Fatal error:  Undefined class name 'areacustosdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/area_lazer/objetos_lazer/buscar.php on line 34
+[04-Nov-2006 16:21:39] PHP Fatal error:  Undefined class name 'centrocustosdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/area_lazer/objetos_lazer/excluir.php on line 51
+[04-Nov-2006 16:43:35] PHP Fatal error:  Undefined class name 'areacustosdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/area_lazer/objetos_lazer/buscar.php on line 34
+[04-Nov-2006 18:08:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php:205) in /BACKUP/heliomed/public_html/meucondominio/sistema/area_lazer/objetos_lazer/adicionar.php on line 74
+[04-Nov-2006 18:39:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /BACKUP/heliomed/public_html/meucondominio/sistema/php/objetolazerDAO.php:205) in /BACKUP/heliomed/public_html/meucondominio/sistema/area_lazer/objetos_lazer/adicionar.php on line 73
+[04-Nov-2006 18:45:12] PHP Fatal error:  Undefined class name 'areacustosdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/area_lazer/objetos_lazer/buscar.php on line 34
+[04-Nov-2006 18:45:54] PHP Fatal error:  Undefined class name 'areacustosdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/area_lazer/objetos_lazer/buscar.php on line 34
+[04-Nov-2006 18:48:03] PHP Fatal error:  Undefined class name 'areacustosdao' in /BACKUP/heliomed/public_html/meucondominio/sistema/area_lazer/objetos_lazer/buscar.php on line 34
+[05-Nov-2006 15:39:37] PHP Parse error:  syntax error, unexpected '{' in /BACKUP/heliomed/public_html/meucondominio/sistema/area_lazer/objetos_lazer/adicionar.php on line 67
+[05-Nov-2006 15:43:46] PHP Fatal error:  Call to undefined function:  int() in /BACKUP/heliomed/public_html/meucondominio/sistema/area_lazer/objetos_lazer/adicionar.php on line 66

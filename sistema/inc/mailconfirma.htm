@@ -1,0 +1,139 @@
+" 
+ <html>
+<style type=\"text/css\">
+<!--
+.style1 {font-family: Arial, Helvetica, sans-serif}
+.style2 {
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style3 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.style6 {font-size: 11px}
+.style8 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; }
+.style10 {font-size: 12px}
+.style11 {color: #FF0000}
+.style12 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF0000;
+}
+-->
+</style>
+<body>
+<p class=\"style1\">Recebemos a sua solicita&ccedil;&atilde;o de cadastro no MeuCondominio.NET</p>
+<p class=\"style1\">A sua mensagem foi repassada para um dos nossos representantes, dentro de no m&aacute;ximo 2 dias &uacute;teis, estaremos entrando em contato para repassar os dados referentes ao contrato e or&ccedil;amento. </p>
+<p class=\"style1\">Seguem os Dados Cadastrados:</p>
+<table cellpadding=\"0\" cellspacing=\"0\" width=\"40%\" class=\"tabela1\">
+  <tr>
+    <td bgcolor=\"#6598CB\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\">
+      <tr>
+        <td width=\"89%\" class=\"tabela1_titulo1 style1 style2 style10\">Dados Cadastrais Referentes ao CONDOM&Iacute;NIO </td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table cellpadding=\"1\" cellspacing=\"1\" width=\"408\">
+       <tr>
+        <td width=\"34%\"  align=\"right\" class=\"style6 style3 tabela1_linha2\"><strong> Nome</strong></td>
+        <td colspan=\"2\" class=\"tabela1_linha2\" ><p class=\"style12\">$condominios->nome</p>          </td>
+      </tr>
+      <tr>
+        <td  align=\"right\" class=\"style6 style3 tabela1_linha2\"><strong> CNPJ </strong></td>
+        <td colspan=\"2\" class=\"style12\" >.$condominios->cnpj.</td>
+      </tr>
+      <tr>
+        <td rowspan=\"7\"  align=\"right\" class=\"style6 style3 tabela1_linha2\"><strong>Endere&ccedil;o</strong></td>
+        <td width=\"35%\" class=\"style8\" ><div align=\"right\" class=\"style8\">Tipo Logradouro: </div></td>
+        <td width=\"31%\" class=\"style12\" ></p>$condominios->tipo_logradouro</td>
+      </tr>
+      <tr>
+        <td class=\"style8\" ><div align=\"right\" class=\"style8\">Logradouro: </div></td>
+        <td class=\"style12\" >$condominios->logradouro</td>
+      </tr>
+      <tr>
+        <td class=\"style8\" ><div align=\"right\" class=\"style8\">Numero:</div></td>
+        <td class=\"style12\" >$condominios->numero_logradouro</td>
+      </tr>
+      <tr>
+        <td class=\"style8\" ><div align=\"right\" class=\"style8\">Bairro:</div></td>
+        <td class=\"style12\" >$condominios->bairro_logradouro</td>
+      </tr>
+      <tr>
+        <td class=\"style8\" ><div align=\"right\" class=\"style8\">Cep:</div></td>
+        <td class=\"style12\" >$condominios->cep_logradouro</td>
+      </tr>
+      <tr>
+        <td class=\"style8\" ><div align=\"right\" class=\"style8\">Cidade:</div></td>
+        <td class=\"style12\" >$condominios->cidade_logradouro</td>
+      </tr>
+      <tr>
+        <td class=\"style8\" ><div align=\"right\" class=\"style8\">Estado:</div></td>
+        <td class=\"style12\" >$condominios->uf_logradouro</td>
+      </tr>
+      <tr>
+        <td  align=\"right\" class=\"tabela1_linha2\"><div align=\"right\" class=\"style8\">QTD Apartamentos</div></td>
+        <td colspan=\"2\"  align=\"right\" class=\"style12\"><div align=\"left\">$condominios->qtd_apartamentos</div></td>
+      </tr>
+      <tr>
+        <td  align=\"right\" class=\"style6 style3 tabela1_linha2\"><strong>Telefone</strong></td>
+        <td colspan=\"2\"  align=\"right\" class=\"style12\"><div align=\"left\">$condominios->telefone</div></td>
+      </tr>
+      <tr>
+        <td  align=\"right\" class=\"style6 style3 tabela1_linha2\"><strong>Respons&aacute;vel</strong></td>
+        <td colspan=\"2\"  align=\"right\" class=\"style12\"><div align=\"left\">$superusuario->nome</div></td>
+      </tr>
+     
+    </table></td>
+  </tr>
+</table>
+<br>
+<table cellpadding=\"0\" cellspacing=\"0\" width=\"42%\" class=\"tabela1\">
+  <tr>
+    <td bgcolor=\"#6598CB\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\">
+      <tr>
+        <td width=\"89%\" class=\"tabela1_titulo1 style1 style2\">Dados Cadastrais Referentes ao CONTATO </td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table cellpadding=\"1\" cellspacing=\"1\" width=\"100%\">
+      <tr>
+        <td width=\"34%\"  align=\"right\" class=\"style6 style3 tabela1_linha2\"><span class=\"tabela1_linha2\"><strong>Nome</strong></span></td>
+        <td width=\"66%\" class=\"style12\" ><p>$contato->nome
+<br>
+        </p></td>
+      </tr>
+      <tr>
+        <td  align=\"right\" class=\"style6 style3 tabela1_linha2\"><strong> CPF </strong></td>
+        <td class=\"style12\" >$contato->cpf
+<br></td>
+      </tr>
+      <tr>
+        <td  align=\"right\" class=\"tabela1_linha2\"><div align=\"right\" class=\"style8\">Telefone</div></td>
+        <td  align=\"right\" class=\"style12\"><div align=\"left\"><span class=\"style6 style3 tabela1_linha2\">$contato->telefone
+<br>
+        </span></div></td>
+      </tr>
+      <tr>
+        <td  align=\"right\" class=\"tabela1_linha2\"><div align=\"right\" class=\"style8\">Celular</div></td>
+        <td  align=\"right\" class=\"style12\"><div align=\"left\"><span class=\"style6 style3 tabela1_linha2\">$contato->celular
+<br>
+        </span></div></td>
+      </tr>
+      <tr>
+        <td  align=\"right\" class=\"style6 style3 tabela1_linha2\"><strong>Email</strong></td>
+        <td  align=\"right\" class=\"style12\"><div align=\"left\"><span class=\"style6 style3 tabela1_linha2\">$contato->email</span></div></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<p class=\"style1\">Caso exista alguma d&uacute;vida, favor, entrar em contato atrav&eacute;s do link &quot;contato&quot;, localizado no canto superior direito. </p>
+<p class=\"style1\">&nbsp; </p>
+<p>&nbsp; </p>
+</body>
+</html>
+ 
+
+ "
